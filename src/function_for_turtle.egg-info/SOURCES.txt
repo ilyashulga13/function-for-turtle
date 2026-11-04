@@ -1,0 +1,6 @@
+pyproject.toml
+src/function_for_turtle/__init__.py
+src/function_for_turtle.egg-info/PKG-INFO
+src/function_for_turtle.egg-info/SOURCES.txt
+src/function_for_turtle.egg-info/dependency_links.txt
+src/function_for_turtle.egg-info/top_level.txt

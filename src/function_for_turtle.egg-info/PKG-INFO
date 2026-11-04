@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: function-for-turtle
+Version: 0.1.0
+Summary: Helpers for turtle: rect, kv, star, pr_tr, fill_circle, georgin, romashka, rozan
+Author: 2bytes
+Requires-Python: >=3.8
