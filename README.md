@@ -1,5 +1,14 @@
 # function-for-turtle
 
+[![PyPI version](https://img.shields.io/pypi/v/function-for-turtle.svg)](https://pypi.org/project/function-for-turtle/)
+[![Python versions](https://img.shields.io/pypi/pyversions/function-for-turtle.svg)](https://pypi.org/project/function-for-turtle/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PyPI downloads](https://img.shields.io/pypi/dm/function-for-turtle.svg)](https://pypi.org/project/function-for-turtle/)
+
+A small helper library for Python's `turtle` module. Draws basic shapes
+and flowers with a single call — no need to hand-write `forward`/`right`
+loops every time.
+
 A small helper library for Python's `turtle` module. Draws basic shapes
 and flowers with a single call — no need to hand-write `forward`/`right`
 loops every time.
